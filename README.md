@@ -1,6 +1,6 @@
 # QR Code Nexus
 
-A modern, cyberpunk-inspired QR code generator with advanced customization options and sleek dark theme design.
+QR Code Nexus is a modern, cyberpunk-inspired QR code generator that transforms the traditional QR creation experience with its sleek dark theme and neon aesthetics. Built with React and cutting-edge web technologies, it offers real-time QR code generation with advanced customization options including logo integration and custom text overlays. The application features a beautiful glass morphism design with smooth animations, making QR code creation both functional and visually stunning. Perfect for developers, designers, and anyone who wants to create professional QR codes with style.
 
 ![QR Code Nexus](https://img.shields.io/badge/QR%20Code-Nexus-00ff88?style=for-the-badge&logo=qrcode&logoColor=white)
 
