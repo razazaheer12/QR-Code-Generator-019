@@ -105,21 +105,22 @@ const QRCodeGenerator = () => {
 
   return (
     <div className="w-full max-w-lg mx-auto">
-      <Card className="shadow-medium border-0 bg-card/80 backdrop-blur-sm">
+      <Card className="glass-card shadow-neon border-0 animate-glow">
         <CardHeader className="text-center pb-8 pt-8">
           <div className="flex justify-center mb-4">
             <div className="relative">
-              <div className="absolute inset-0 bg-primary/20 rounded-full blur-xl animate-pulse"></div>
-              <div className="relative bg-primary/10 p-4 rounded-full">
-                <QrCode className="h-8 w-8 text-primary" />
+              <div className="absolute inset-0 bg-primary/30 rounded-full blur-2xl animate-pulse-slow"></div>
+              <div className="absolute inset-0 bg-cyan-400/20 rounded-full blur-xl animate-pulse"></div>
+              <div className="relative gradient-cyber p-4 rounded-full shadow-neon">
+                <QrCode className="h-8 w-8 text-white drop-shadow-lg" />
               </div>
             </div>
           </div>
-          <CardTitle className="text-3xl font-playfair font-bold bg-gradient-to-r from-primary to-primary-dark bg-clip-text text-transparent">
-            QR Code Alchemist
+          <CardTitle className="text-3xl font-playfair font-bold gradient-cyber bg-clip-text text-transparent drop-shadow-sm">
+            QR Code Nexus
           </CardTitle>
           <p className="text-muted-foreground mt-2 font-medium">
-            Transform your content into beautiful QR codes
+            ⚡ Transform your content into stunning QR codes ⚡
           </p>
         </CardHeader>
         
