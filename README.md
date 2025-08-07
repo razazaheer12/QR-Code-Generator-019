@@ -65,7 +65,7 @@ npm run dev
 
 ## 🌐 Demo
 
-Visit the live demo: [QR Code Nexus](https://qr-code-alchemist.gptengineer.run/)
+Visit the live demo: [QR Code Nexus](https://qr-code-generator-019.lovable.app/)
 
 ## 🤝 Contributing
 
