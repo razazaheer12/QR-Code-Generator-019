@@ -83,8 +83,6 @@ Built with modern web technologies and best practices:
 - Semantic HTML and accessibility
 - Type-safe development with JSX
 
----
 ## Author
 
-
-Made with razazaheer12 ❤️ and cutting-edge web technologies.
+razazaheer12 ❤️ 
