@@ -2,8 +2,6 @@
 
 QR Code Nexus is a modern, cyberpunk-inspired QR code generator that transforms the traditional QR creation experience with its sleek dark theme and neon aesthetics. Built with React and cutting-edge web technologies, it offers real-time QR code generation with advanced customization options including logo integration and custom text overlays. The application features a beautiful glass morphism design with smooth animations, making QR code creation both functional and visually stunning. Perfect for developers, designers, and anyone who wants to create professional QR codes with style.
 
-![QR Code Nexus](https://img.shields.io/badge/QR%20Code-Nexus-00ff88?style=for-the-badge&logo=qrcode&logoColor=white)
-
 <img width="853" height="617" alt="image" src="https://github.com/user-attachments/assets/8842cbe5-b256-4c2a-bde8-8430f11a3aa5" />
 
 
@@ -66,6 +64,14 @@ npm run dev
 - **Smooth Animations**: Floating background elements and hover effects
 - **Accessibility**: Full keyboard navigation and screen reader support
 
+## 🔧 Development
+
+Built with modern web technologies and best practices:
+- Component-based architecture
+- Responsive design principles
+- Semantic HTML and accessibility
+- Type-safe development with JSX
+
 ## 🌐 Demo
 
 Visit the live demo: [QR Code Nexus](https://qr-code-generator-019.lovable.app/)
@@ -77,14 +83,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
-
-## 🔧 Development
-
-Built with modern web technologies and best practices:
-- Component-based architecture
-- Responsive design principles
-- Semantic HTML and accessibility
-- Type-safe development with JSX
 
 ## Author
 
